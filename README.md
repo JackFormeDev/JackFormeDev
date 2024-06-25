@@ -1,6 +1,8 @@
-# <div style="color:red" align='center'>Jack Forme</div>
-## <div align='center'>Python Developer 🐍</div>
+ ```diff 
+- Jack Forme
++ JackFormeDev
+```
+### Python Developer 🐍
 ______________________
-### <div align='center'>@JackFormeReal</div>
-#### <span style="color:blue">some *blue* text</span>.
-
+## <div align="center"> @JackFormeReal</div>
+### <div align="center"> on Telegram </div>
