@@ -2,4 +2,5 @@
 ## <div align='center'>Python Developer 🐍</div>
 ______________________
 ### <div align='center'>@JackFormeReal</div>
-#### <div align='center'>on Telegram</div>
+#### <span style="color:blue">some *blue* text</span>.
+
